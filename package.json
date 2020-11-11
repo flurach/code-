@@ -1,0 +1,21 @@
+{
+    "name": "code-",
+    "displayName": "code+",
+    "description": "Dark+ but #1c1c1c",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Code+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Code+-color-theme.json"
+            }
+        ]
+    }
+}
