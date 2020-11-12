@@ -1,6 +1,6 @@
 {
     "name": "code-",
-    "displayName": "code+",
+    "displayName": "Code+ Theme",
     "description": "Dark+ but #1c1c1c",
     "version": "0.0.1",
     "engines": {
@@ -17,5 +17,7 @@
                 "path": "./themes/Code+-color-theme.json"
             }
         ]
-    }
+    },
+    "publisher": "flurach",
+    "repository": "https://github.com/flurach/code-"
 }
